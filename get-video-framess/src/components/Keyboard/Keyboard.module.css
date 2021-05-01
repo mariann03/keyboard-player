@@ -1,0 +1,11 @@
+.keyboardContainer {
+	position: absolute;
+	background: #646464;
+	top: 0;
+}
+
+.key {
+	position: absolute;
+	font-size: 8px;
+	text-align: center;
+}
